@@ -1,0 +1,4 @@
+Sitemap: https://subsurfaceenergy.com/sitemapindex.xml
+
+User-Agent: *
+Host: subsurfaceenergy.com
