@@ -7,118 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.subsurfaceenergy.com/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.subsurfaceenergy.com/2012/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <loc>http://www.subsurfaceenergy.com/2021/</loc>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.subsurfaceenergy.com/archive.html</loc>
-  <lastmod>2021-06-10T10:14:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.subsurfaceenergy.com/categories/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/categories/blog/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/categories/cat_nikola/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/categories/demo/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/categories/nikola/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/categories/python/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.subsurfaceenergy.com/galleries/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/galleries/demo/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.subsurfaceenergy.com/listings/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.subsurfaceenergy.com/listings/__pycache__/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.subsurfaceenergy.com/listings/hello.py.html</loc>
-  <lastmod>2021-06-10T10:14:00Z</lastmod>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.subsurfaceenergy.com/pages/about-nikola/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/bootstrap-demo/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/charts/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/creating-a-theme/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/extending/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/handbook/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/internals/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/listings-demo/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/path-handlers/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/quickref/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/quickstart/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/social_buttons/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/pages/theming/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.subsurfaceenergy.com/posts/welcome-to-nikola/</loc>
-  <lastmod>2021-06-10T08:16:00Z</lastmod>
+  <loc>http://www.subsurfaceenergy.com/posts/subsurface-energy/</loc>
+  <lastmod>2021-06-10T16:48:00Z</lastmod>
  </url>
 </urlset>
